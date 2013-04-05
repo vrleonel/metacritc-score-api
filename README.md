@@ -1,4 +1,4 @@
 metacritc-score-api
 ===================
 
-Get the metacritic score em show a jsom with values
+Get the metacritic score em show a json with values
